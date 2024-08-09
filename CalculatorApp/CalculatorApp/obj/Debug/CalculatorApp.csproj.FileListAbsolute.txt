@@ -1,0 +1,9 @@
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\maz2g\OneDrive\Desktop\Nauka Pozaszkolna\Repos to fix\WinForms Calculator\winForms-calculator\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
